@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **QA Tester**
 
-- 👨‍💻 Also have experienced on **Android Development (Java/Kotlin), Web Development (.NET ASPX)**
+- 👨‍💻 Also have experienced on **Android Development (Java/Kotlin), Web Development (ASP .NET)**
 
 - 🌱 I’m currently learning **Cypress, MVM, Kotlin, Corutines**
 
